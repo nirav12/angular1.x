@@ -1,0 +1,30 @@
+{
+  "name": "angular1",
+  "version": "1.0.0",
+  "description": "Angular 1.4.x Quick Start",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.4.14",
+    "gulp": "^3.9.1",
+    "jasmine": "^2.7.0",
+    "jshint": "^2.9.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirav12/angular1.x.git"
+  },
+  "keywords": [
+    "Angular1",
+    "QuickStart"
+  ],
+  "author": "Nirav Desai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirav12/angular1.x/issues"
+  },
+  "homepage": "https://github.com/nirav12/angular1.x#readme"
+}
